@@ -1,159 +1,200 @@
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                        HERO BANNER                               -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+ 
 <div align="center">
-<!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2AABEE,100:0d1117&height=200&section=header&text=Abhin%20Mohan%20Vineetha&fontSize=40&fontColor=2AABEE&fontAlignY=38&desc=Material%20Scientist%20%7C%20Python%20Developer%20%7C%20Data%20Enthusiast&descAlignY=58&descSize=16&descColor=ffffff" />
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2AABEE&center=true&vCenter=true&width=600&lines=MSc+Material+Science+%40+Paderborn+University+%F0%9F%87%A9%F0%9F%87%AA;Python+%7C+Data+Viz+%7C+Nuclear+Analysis+%7C+Simulation;Building+at+the+intersection+of+Science+%26+Code;Always+learning%2C+always+improving+%F0%9F%9A%80)](https://git.io/typing-svg)
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:001a12,70:003322,100:00ffcc&height=300&section=header&text=ABHIN%20MOHAN&fontSize=70&fontColor=00ffcc&fontAlignY=45&animation=fadeIn&desc=Material%20Scientist%20·%20Computational%20Researcher%20·%20Python%20Engineer&descAlignY=65&descSize=16&descColor=88ffee&stroke=00ffcc&strokeWidth=2" width="100%" />
+</div>
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                     TYPING + BADGES                              -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
  
-<!-- PROFILE STATS BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=Abhinmohan&color=2AABEE&style=flat-square&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Abhinmohan?color=2AABEE&style=flat-square&logo=github&label=FOLLOWERS)](https://github.com/Abhinmohan)
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&pause=900&color=00FFCC&center=true&vCenter=true&width=700&lines=%5BINIT%5D+MSc+Material+Science+%40+Universit%C3%A4t+Paderborn+%F0%9F%87%A9%F0%9F%87%AA;%5BRUN%5D+XPS+%C2%B7+DFT+%C2%B7+PIXE+Ion+Beam+%C2%B7+Python+Pipelines;%5BEXEC%5D+Building+at+the+intersection+of+Physics+%26+Code;%5BSTAT%5D+Computational+Materials+%7C+Deep+Tech+%7C+Open+Source;%5BTARGET%5D+PhD+Research+%7C+Startup+Founder+%7C+Science+%C3%97+Software" />
+<br/><br/>
  
+<img src="https://komarev.com/ghpvc/?username=Abhinmohan&color=00ffcc&style=flat-square&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Abhinmohan?color=00ffcc&style=flat-square&logo=github&label=FOLLOWERS" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/Abhinmohan?color=00ffcc&style=flat-square&logo=github&label=TOTAL+STARS" />
 </div>
 ---
  
-## 🧬 About Me
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                                  -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
  
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-```yaml
-👤 Name       : Abhin Mohan Vineetha
-📍 Location   : Paderborn, Germany 🇩🇪
-🎓 Degree     : MSc Material Science
-🏫 University : Universität Paderborn
-🔬 Research   : Computational Materials & Spectroscopy
-💬 Languages  : English (Fluent) | German (C1)
-📧 Email      : vineethaabhin0@gmail.com
-```
+## &nbsp;`> whoami`
  
-- 🔭 Currently pursuing my **Master's in Material Science**
-- 🧪 Worked with **PIXE ion beam systems** for elemental characterisation
-- 🐍 Developing **Python scripts** for sensor data logging & nuclear data visualisation
-- 📊 Experienced with **CasaXPS**, **CP2K**, and surface composition profiling
-- 💡 I love the intersection of **physics, materials, and code**
-- 🎯 Goal: Computational materials research + data-driven science
+<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="280px" alt="Coding GIF"/>
+ &nbsp;MSc Material Science student at Universität Paderborn, working at the intersection of physics, computational simulation, and scientific software.
+ 
+ &nbsp;My research spans XPS surface analysis (CasaXPS), DFT simulations (CP2K), and **PIXE ion beam elemental characterisation** — with Python pipelines tying it all together.
+ 
+ &nbsp;Currently co-founding a **deep tech startup** (MatPred) — a materials property prediction API using graph neural networks trained on open datasets like Materials Project & AFLOW.
+ 
+ &nbsp;Long-term goal: PhD in computational materials + building large-scale scientific software that bridges mathematics, physics, materials science, and engineering.
+ 
+ &nbsp;Based in Paderborn, Germany &nbsp;·&nbsp; English `[NATIVE]` &nbsp;·&nbsp; German `[LEARNING]` &nbsp;·&nbsp; Malayalam `[NATIVE]`
+ 
+ &nbsp;Reach me at vineethaabhin0@gmail.com
+ 
 <br clear="right"/>
 ---
  
-## 📊 GitHub Stats
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                      GITHUB STATS                                -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+ 
+##  &nbsp;`> github.stats`
  
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhinmohan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2AABEE&icon_color=2AABEE&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinmohan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2AABEE&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhinmohan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=00ffcc&icon_color=00ffcc&text_color=88ffee" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinmohan&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ffcc&text_color=88ffee&langs_count=8" />
+<br/><br/>
+ 
+<img src="https://streak-stats.demolab.com/?user=Abhinmohan&theme=dark&hide_border=true&background=0a0a0a&ring=00ffcc&fire=00ddaa&currStreakLabel=00ffcc&sideLabels=88ffee&dates=44aa88&currStreakNum=00ffcc&sideNums=00ffcc" />
 </div>
+---
+ 
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                  LANGUAGES & TOOLS GRID                          -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+ 
+## 🛠️ &nbsp;`> tools.list --all`
+ 
 <div align="center">
-![GitHub Streak](https://streak-stats.demolab.com/?user=Abhinmohan&theme=dark&hide_border=true&background=0d1117&ring=2AABEE&fire=2AABEE&currStreakLabel=2AABEE)
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,php,bash,git,linux,vscode&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=github,latex,html,css,anaconda,stackoverflow,notion,figma&theme=dark" />
+</div>
+<br/>
+<div align="center">
+> 🔬 **Scientific Stack:** &nbsp; `CasaXPS` &nbsp;·&nbsp; `CP2K` &nbsp;·&nbsp; `PIXE Ion Beam` &nbsp;·&nbsp; `VESTA` &nbsp;·&nbsp; `AutoCAD` &nbsp;·&nbsp; `Excel`
  
 </div>
 ---
  
-## 🛠️ Languages & Tools I Work With
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                    LAB EXPERIENCE                                 -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
  
-<div align="center">
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=2AABEE)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=2AABEE)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=2AABEE)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=2AABEE)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=2AABEE)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-0d1117?style=for-the-badge&logo=autodesk&logoColor=2AABEE)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=2AABEE)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=2AABEE)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=2AABEE)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=2AABEE)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=2AABEE)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=2AABEE)
+## ⚗️ &nbsp;`> lab.log --status`
  
-</div>
----
- 
-## 🔬 Scientific & Technical Stack
- 
-<div align="center">
-| Tool | Purpose |
-|------|---------|
-| `CasaXPS` | XPS peak fitting & surface composition profiling |
-| `CP2K` | Computational materials simulation |
-| `PIXE (Ion Beam)` | Nuclear-based elemental characterisation |
-| `Python + Matplotlib` | Sensor data logging & nuclear data visualisation |
-| `AutoCAD` | 3D design & technical drafting |
-| `Excel / SQL` | Data management & analysis |
- 
-</div>
----
- 
-## 🏆 Certifications
- 
-<div align="center">
-![AutoCAD](https://img.shields.io/badge/✅_AutoCAD_Drafting_%26_3D_Design-2AABEE?style=for-the-badge&color=2AABEE&labelColor=0d1117)
-![Excel](https://img.shields.io/badge/✅_Microsoft_Excel_Certification-2AABEE?style=for-the-badge&color=2AABEE&labelColor=0d1117)
-![SQL](https://img.shields.io/badge/✅_SQL_Bootcamp_MySQL_PHP_Python-2AABEE?style=for-the-badge&color=2AABEE&labelColor=0d1117)
- 
-</div>
----
- 
-## ⚗️ Lab Experience Highlights
- 
-<div align="center">
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                    [ LABORATORY SYSTEMS INTERFACE v2.0 ]                   ║
-║                         ◈ ABHINMOHAN — RESEARCH NODE ◈                     ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
- 
-</div>
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  SYSTEM        :: LAB ANALYSIS ENGINE                                       │
-│  OPERATOR      :: Abhin Mohan Vineetha                                      │
-│  INSTITUTE     :: Universität Paderborn · RUBION Bochum                     │
-│  STATUS        :: ██████████████████████████ ACTIVE                         │
-└─────────────────────────────────────────────────────────────────────────────┘
- 
-  ◈ MODULE_01  »  PIXE ION BEAM SYSTEMS
-  │   ├─ TYPE     : Nuclear Analysis
-  │   ├─ TASK     : Elemental characterisation of advanced materials
-  │   └─ STATUS   : [■■■■■■■■■■] COMPLETE ✓
- 
-  ◈ MODULE_02  »  CasaXPS — SURFACE PROFILER
-  │   ├─ TYPE     : X-Ray Photoelectron Spectroscopy
-  │   ├─ TASK     : Peak fitting & surface composition profiling
-  │   ├─ SAMPLES  : 20+ analysed
-  │   └─ STATUS   : [■■■■■■■■■■] COMPLETE ✓
- 
-  ◈ MODULE_03  »  PYTHON SCRIPTING ENGINE
-  │   ├─ TYPE     : Data Engineering & Visualisation
-  │   ├─ TASK     : Sensor logging & nuclear data visualisation pipelines
-  │   └─ STATUS   : [■■■■■■■■■■] RUNNING  ⚡
- 
-  ◈ MODULE_04  »  CP2K SIMULATION CORE
-  │   ├─ TYPE     : Computational Materials Science
-  │   ├─ TASK     : Modelling of material properties at atomic scale
-  │   └─ STATUS   : [■■■■■■■■░░] IN PROGRESS ⟳
- 
-  ◈ MODULE_05  »  SPECTROSCOPY CALIBRATION
-  │   ├─ TYPE     : Technical Validation
-  │   ├─ TASK     : Calibration accuracy verification & result reporting
-  │   └─ STATUS   : [■■■■■■■■■■] COMPLETE ✓
- 
-> ALL SYSTEMS OPERATIONAL — SCIENCE MODE ENGAGED 🛰️
+╔══════════════════════════════════════════════════════════════════════╗
+║  LABORATORY SYSTEMS INTERFACE  //  PADERBORN RESEARCH UNIT  🛰️      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  [01]  PIXE ION BEAM SYSTEMS                                         ║
+║        ├─ Type    : Nuclear Analysis                                 ║
+║        ├─ Task    : Elemental characterisation of advanced materials ║
+║        └─ STATUS  : ████████████████████  100%  ✓ COMPLETE          ║
+║                                                                      ║
+║  [02]  CasaXPS  SURFACE PROFILER                                     ║
+║        ├─ Type    : X-Ray Photoelectron Spectroscopy                ║
+║        ├─ Task    : Peak fitting & composition — 20+ samples         ║
+║        └─ STATUS  : ████████████████████  100%  ✓ COMPLETE          ║
+║                                                                      ║
+║  [03]  PYTHON SCRIPTING ENGINE                                       ║
+║        ├─ Type    : Data Engineering & Visualisation                 ║
+║        ├─ Task    : Sensor logging · nuclear data pipelines          ║
+║        └─ STATUS  : ████████████████████   ∞    ⚡ RUNNING          ║
+║                                                                      ║
+║  [04]  CP2K SIMULATION CORE  (DFT)                                   ║
+║        ├─ Type    : Computational Materials Science                  ║
+║        ├─ Task    : Atomic-scale modelling · band structure          ║
+║        └─ STATUS  : ████████████████░░░░   80%  ⟳ IN PROGRESS      ║
+║                                                                      ║
+║  [05]  MatPred API  (STARTUP)                                        ║
+║        ├─ Type    : Deep Tech · Graph Neural Networks                ║
+║        ├─ Task    : Materials property prediction API                ║
+║        └─ STATUS  : ████████░░░░░░░░░░░░   40%   BUILDING        ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  >>  ALL SYSTEMS OPERATIONAL  //  SCIENCE MODE: ENGAGED              ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
  
 ---
  
-## 🤝 Connect With Me
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                    FEATURED REPOS                                 -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+ 
+##  &nbsp;`> repos.pin --featured`
  
 <div align="center">
-[![Email](https://img.shields.io/badge/Gmail-vineethaabhin0@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vineethaabhin0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Abhinmohan-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Abhinmohan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=2AABEE)](https://linkedin.com/in/abhinmohan)
+<a href="https://github.com/Abhinmohan">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinmohan&repo=XPS-Simulator&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ffcc&icon_color=00ffcc&text_color=88ffee" />
+</a>
+&nbsp;
+<a href="https://github.com/Abhinmohan">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinmohan&repo=MatPred&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ffcc&icon_color=00ffcc&text_color=88ffee" />
+</a>
+</div>
+> 💡 *Replace `repo=XPS-Simulator` and `repo=MatPred` with your actual repository names.*
  
+---
+ 
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                    CERTIFICATIONS                                 -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+ 
+##  &nbsp;`> certs.list`
+ 
+<div align="center">
+<img src="https://img.shields.io/badge/AutoCAD_Drafting_%26_3D_Design-CERTIFIED-0a0a0a?style=for-the-badge&labelColor=001a12&color=00ffcc" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-CERTIFIED-0a0a0a?style=for-the-badge&labelColor=001a12&color=00ffcc" />
+<img src="https://img.shields.io/badge/SQL_%2B_MySQL_%2B_PHP_%2B_Python-CERTIFIED-0a0a0a?style=for-the-badge&labelColor=001a12&color=00ffcc" />
 </div>
 ---
  
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                    ACTIVITY GRAPH                                 -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+ 
+##  &nbsp;`> activity.graph`
+ 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2AABEE,100:0d1117&height=120&section=footer"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinmohan&theme=react-dark&bg_color=0a0a0a&color=00ffcc&line=00ffcc&point=00ffcc&area=true&hide_border=true" width="95%" />
+</div>
+---
+ 
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                      CONNECT                                      -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+ 
+##  &nbsp;`> connect --open`
+ 
+<div align="center">
+<a href="mailto:vineethaabhin0@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/abhinmohan">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Abhinmohan">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</div>
+---
+ 
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                        FOOTER                                     -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+ 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:003322,100:000000&height=140&section=footer&animation=fadeIn" width="100%" />
 ```
-// "Where materials science meets code."  — Abhin Mohan
+[ WHERE MATERIALS SCIENCE MEETS CODE ]
 ```
+ 
+*"The best way to predict the future of materials — is to compute it."*
  
 </div>
  
